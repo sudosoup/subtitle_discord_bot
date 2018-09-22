@@ -30,7 +30,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 			case 'ping':
 				bot.sendMessage({
 					to: channelID,
-					message: 'Pong!'
+					message: 'Bing Bong!'
 				});
 			break;
 			// Just add any case commands if you want to..
