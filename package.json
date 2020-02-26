@@ -1,11 +1,20 @@
 {
-	"name": "greeter-bot",
-	"version": "1.0.0",
-	"description": "My own Discord bot",
-	"main": "bot.js",
-	"author": "sudosoup",
-	"dependencies": {
-		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
-		"winston": "^3.1.0"
-	}
+  "name": "subtitle_discord_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudosoup/subtitle_discord_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudosoup/subtitle_discord_bot/issues"
+  },
+  "homepage": "https://github.com/sudosoup/subtitle_discord_bot#readme"
 }
